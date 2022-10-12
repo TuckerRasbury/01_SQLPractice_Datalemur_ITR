@@ -7,7 +7,7 @@ Being a data analyst means keeping my skills sharp. Herein, I log my SQL queries
 Thanks for visiting my portfolio!
 
 ## How the entries are logged
- - Question Title | Difficulty | Company Question is From | Date
+ - Question Title | Difficulty | Company Question is From | Date Completed
  - Question 
  - Code Answer
  - Number of Tries
@@ -28,6 +28,7 @@ Thanks for visiting my portfolio!
 - [Placeholder]()
  
 ## Question Responses
+_Note: Questions ordered by date._
 
 ### Data Science Skills | Easy | LinkedIn | 10/12/2022
 - Question: Given a table of candidates and their skills, you're tasked with finding the candidates best suited for an open Data Science job. You want to find candidates who are proficient in Python, Tableau, and PostgreSQL. **Write a SQL query to list the candidates who possess all of the required skills for the job. Sort the the output by candidate ID in ascending order.**
