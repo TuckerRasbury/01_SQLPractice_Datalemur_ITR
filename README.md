@@ -7,23 +7,34 @@ Being a data analyst means keeping my skills sharp. Herein, I log my SQL queries
 Thanks for visiting my portfolio!
 
 ## How the entries are logged
- - Question Title | Difficulty | Date
+ - Question Title | Difficulty | Company Question is From | Date
  - Question 
  - Code Answer
+ - Number of Tries
  - Lessons learned, new skills practiced, and notable failures
  - LinkedIn posts about respective question, if applicable
  
  
 ## Question Responses
 
-### Data Science Skills | Easy | 10/12/2022
+### Data Science Skills | Easy | LinkedIn | 10/12/2022
 - Question: Given a table of candidates and their skills, you're tasked with finding the candidates best suited for an open Data Science job. You want to find candidates who are proficient in Python, Tableau, and PostgreSQL. **Write a SQL query to list the candidates who possess all of the required skills for the job. Sort the the output by candidate ID in ascending order.**
 
 ![Image](images/Data_Science_Skills/carbon.png)
 
+- Number of Tries: 2
 - Lessons Learned: I learned about and practiced using the IN function with the WHERE subclause. The IN function is fairly new to me.
 - LinkedIn Post: [Here](https://www.linkedin.com/posts/tuckerrasbury_dataanalyst-sql-growthmindset-activity-6985986546453622784-alHY?utm_source=share&utm_medium=member_desktop)
 
+
+### Pages with No Likes | Easy | Facebook | 9/13/2022
+- Question: 
+
+![Image](Path)
+
+- Number of Tries: 2
+- Lessons Learned: 
+- LinkedIn Post: [Here](https://www.linkedin.com/posts/tuckerrasbury_datalemur-sql-analytics-activity-6975457181575835649-6wxE?utm_source=share&utm_medium=member_desktop)
 
 ## Appendix
 
