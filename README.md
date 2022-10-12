@@ -17,15 +17,15 @@ Thanks for visiting my portfolio!
 ## Table of Contents
 
 ### Easy Questions
-- [Data Science Skills | Easy | LinkedIn | 10/12/2022]()
-- [Pages with No Likes | Easy | Facebook | 9/13/2022]()
-- [Cities with Completed Trades | Easy | Robinhood | 9/12/2022]()
+- [Data Science Skills | Easy | LinkedIn | 10/12/2022](https://github.com/TuckerRasbury/SQLPractice_Datalemur_ITR/edit/main/README.md#data-science-skills--easy--linkedin--10122022)
+- [Pages with No Likes | Easy | Facebook | 9/13/2022](https://github.com/TuckerRasbury/SQLPractice_Datalemur_ITR/edit/main/README.md#pages-with-no-likes--easy--facebook--9132022)
+- [Cities with Completed Trades | Easy | Robinhood | 9/12/2022](https://github.com/TuckerRasbury/SQLPractice_Datalemur_ITR/edit/main/README.md#cities-with-completed-trades--easy--robinhood--9122022)
 
 ### Medium
-- 
+- [Placeholder]()
 
 ### Hard
-- 
+- [Placeholder]()
  
 ## Question Responses
 
