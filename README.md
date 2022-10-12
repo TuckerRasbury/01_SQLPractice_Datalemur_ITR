@@ -23,3 +23,16 @@ Thanks for visiting my portfolio!
 
 - Lessons Learned: I learned about and practiced using the IN function with the WHERE subclause. The IN function is fairly new to me.
 - LinkedIn Post: [Here](https://www.linkedin.com/posts/tuckerrasbury_dataanalyst-sql-growthmindset-activity-6985986546453622784-alHY?utm_source=share&utm_medium=member_desktop)
+
+
+## Appendix
+
+**Template**
+
+### Title | Difficulty | Date
+- Question: 
+
+![Image](Path)
+
+- Lessons Learned: 
+- LinkedIn Post: [Here]()
