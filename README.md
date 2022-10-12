@@ -13,7 +13,19 @@ Thanks for visiting my portfolio!
  - Number of Tries
  - Lessons learned, new skills practiced, and notable failures
  - LinkedIn posts about respective question, if applicable
- 
+
+## Table of Contents
+
+### Easy Questions
+- [Data Science Skills | Easy | LinkedIn | 10/12/2022]()
+- [Pages with No Likes | Easy | Facebook | 9/13/2022]()
+- [Cities with Completed Trades | Easy | Robinhood | 9/12/2022]()
+
+### Medium
+- 
+
+### Hard
+- 
  
 ## Question Responses
 
