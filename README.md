@@ -9,7 +9,7 @@ Thanks for visiting my portfolio!
 ## How the entries are logged
  - Question Title | Difficulty | Date
  - Question 
- - Code Responses
+ - Code Answer
  - Lessons learned, new skills practiced, and notable failures
  - LinkedIn posts about respective question, if applicable
  
@@ -19,3 +19,7 @@ Thanks for visiting my portfolio!
 ### Data Science Skills | Easy | 10/12/2022
 - Question: Given a table of candidates and their skills, you're tasked with finding the candidates best suited for an open Data Science job. You want to find candidates who are proficient in Python, Tableau, and PostgreSQL. **Write a SQL query to list the candidates who possess all of the required skills for the job. Sort the the output by candidate ID in ascending order.**
 
+![Image](images/Data_Science_Skills/carbon.png)
+
+- Lessons Learned: I learned about and practiced using the IN function with the WHERE subclause. The IN function is fairly new to me.
+- LinkedIn Post: [Here](https://www.linkedin.com/posts/tuckerrasbury_dataanalyst-sql-growthmindset-activity-6985986546453622784-alHY?utm_source=share&utm_medium=member_desktop)
