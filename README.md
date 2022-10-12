@@ -2,7 +2,7 @@
 Using this as a space to log and organize my SQL practice using the website [DataLemur](https://datalemur.com). Hope you can learn something from this space as well!
 
 ## About this Repository
-Being a data analyst means keeping my skills sharp. Herein, I log my SQL queries that I've been practicing while going through the exercises on DataLemur.com, a relatively new website where anyone can practice their SQL. Some of these entries will have a accompanying LinkedIn posts and commentary, and I hope you follow those links and learn a bunch as you read along. 
+Being a data analyst means keeping my skills sharp. Herein, I log my SQL queries that I've been practicing while going through the exercises on DataLemur.com, a relatively new website where anyone can practice their SQL. Some of these entries will have a accompanying LinkedIn posts and commentary, and I hope you follow those links and learn a bunch as you read along. Given this site has 50-70 questions and that I am doing these at my leisure, this repository will be updated as I go through them, ie. will be updated over time.
 
 Thanks for visiting my portfolio!
 
@@ -36,15 +36,25 @@ Thanks for visiting my portfolio!
 - Lessons Learned: 
 - LinkedIn Post: [Here](https://www.linkedin.com/posts/tuckerrasbury_datalemur-sql-analytics-activity-6975457181575835649-6wxE?utm_source=share&utm_medium=member_desktop)
 
-## Appendix
 
-**Template**
-
-### Title | Difficulty | Date
+### Cities with Completed Trades | Easy | Robinhood | 9/12/2022
 - Question: 
 
 ![Image](Path)
 
-- Number of Tries
+- Number of Tries: 1
+- Lessons Learned: 
+- LinkedIn Post: [Here](https://www.linkedin.com/posts/tuckerrasbury_dataanalytics-sql-datalemur-activity-6975117717653655552-KgbQ?utm_source=share&utm_medium=member_desktop)
+
+## Appendix
+
+**Template**
+
+### Title | Difficulty | Company | Date
+- Question: 
+
+![Image](Path)
+
+- Number of Tries:
 - Lessons Learned: 
 - LinkedIn Post: [Here]()
