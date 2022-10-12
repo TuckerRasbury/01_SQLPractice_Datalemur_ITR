@@ -45,5 +45,6 @@ Thanks for visiting my portfolio!
 
 ![Image](Path)
 
+- Number of Tries
 - Lessons Learned: 
 - LinkedIn Post: [Here]()
