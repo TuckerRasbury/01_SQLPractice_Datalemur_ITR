@@ -2,9 +2,14 @@
 Using this as a space to log and organize my SQL practice using the website [DataLemur](https://datalemur.com). Hope you can learn something from this space as well!
 
 ## About this Repository
-Being a data analyst means keeping my skills sharp. Herein, I log my SQL queries that I've been practicing while going through the exercises on DataLemur.com, a relatively new website where anyone can practice their SQL. Some of these entries will have a accompanying LinkedIn posts and commentary, and I hope you follow those links and learn a bunch as you read along. Given this site has 50-70 questions and that I am doing these at my leisure, this repository will be updated as I go through them, ie. will be updated over time.
+Being a data analyst means keeping my skills sharp. Herein, I log my SQL queries that I've been practicing while going through the exercises on DataLemur.com, a relatively new website where anyone can practice their SQL using questions from the prominent book "How to Ace the Data Science Interview". Some of these entries will have a accompanying LinkedIn posts and commentary, and I hope you follow those links and learn from the community commenting on those posts as you read along. Given this site has 50-70 questions and that I am doing these at my leisure, this repository will be updated as I go through them, ie. will be updated over time at my leisure.
 
 Thanks for visiting my portfolio!
+
+## Disclosure
+The questions represented herein are from "How to Ace the Data Science Interview". The reproduction of questions here is not a statement of ownership, creation, or done for or with the intent for profit. This is an educational exercise intended to demonstrate my commitment to learning more about the tools used in the analytics industry. The full question along with data dictionaries can be located on the Datalemur site and have not been consistently, if at all reproduced, here for the author's convenience.
+
+If you have any questions or concerns feel free to get in touch with me on LinkedIn.
 
 ## How the entries are logged
  - Question Title | Difficulty | Company Question is From | Date Completed
@@ -17,6 +22,7 @@ Thanks for visiting my portfolio!
 ## Table of Contents
 
 ### Easy Questions
+-[]()
 - [Data Science Skills | Easy | LinkedIn | 10/12/2022](https://github.com/TuckerRasbury/SQLPractice_Datalemur_ITR#data-science-skills--easy--linkedin--10122022)
 - [Pages with No Likes | Easy | Facebook | 9/13/2022](https://github.com/TuckerRasbury/SQLPractice_Datalemur_ITR#pages-with-no-likes--easy--facebook--9132022)
 - [Cities with Completed Trades | Easy | Robinhood | 9/12/2022](https://github.com/TuckerRasbury/SQLPractice_Datalemur_ITR#cities-with-completed-trades--easy--robinhood--9122022)
@@ -28,7 +34,17 @@ Thanks for visiting my portfolio!
 - [Placeholder]()
  
 ## Question Responses
-_Note: Questions ordered by date._
+_Note: Questions ordered by most recent date._
+
+### Laptop Vs Mobile Viewership | Easy | New York Times | TBD
+- Question: Assume that you are given a table containing information on viewership by device type (where the three types are laptop, tablet, and phone). Define “mobile” as the sum of tablet and phone viewership numbers. **Write a query to compare the viewership on laptops versus mobile devices. Output the total viewership for laptop and mobile devices in the format of "laptop_views" and "mobile_views".**
+
+![Image](Path)
+
+- Number of Tries:
+- Lessons Learned: 
+- LinkedIn Post: [Here]()
+
 
 ### Data Science Skills | Easy | LinkedIn | 10/12/2022
 - Question: Given a table of candidates and their skills, you're tasked with finding the candidates best suited for an open Data Science job. You want to find candidates who are proficient in Python, Tableau, and PostgreSQL. **Write a SQL query to list the candidates who possess all of the required skills for the job. Sort the the output by candidate ID in ascending order.**
@@ -101,3 +117,12 @@ LIMIT 3
 - Number of Tries:
 - Lessons Learned: 
 - LinkedIn Post: [Here]()
+
+## Process for Updating Readme
+1. Answer a question on Datalemur.com 
+2. Copy the template from the appendix to the top of the questions answered section.
+3. Fill in the spaces of the template in the new entry as you go or after the question is answered on the platform.
+4. Create an image folder titled with the name of the question.
+5. Place whatever screenshots or code shots made using [Carbon](https://carbon.now.sh) into the image folder to fill in the image space. This space can be purely functional (ie. easy screenshot and go) or a place for creativity (ie. using Carbon to create a beautiful representation of SQL). Pick based on time, energy, and taste.
+6. Update the Table of Contents to ensure question responses are easy to navigate.
+7. Do your best to talk about the work on LinkedIn or Medium.
