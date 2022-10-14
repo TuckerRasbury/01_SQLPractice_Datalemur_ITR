@@ -43,7 +43,17 @@ _Note: Questions ordered by date._
 ### Pages with No Likes | Easy | Facebook | 9/13/2022
 - Question: Assume you are given the tables below about Facebook pages and page likes. **Write a query to return the page IDs of all the Facebook pages that don't have any likes. The output should be in ascending order.**
 
-![Image](Path)
+```
+SELECT
+  pages.page_id
+FROM pages
+LEFT JOIN page_likes
+ON pages.page_id = page_likes.page_id
+GROUP{ BY pages.page_id
+HAVING Count(page_likes.page_id) < 1;
+```
+
+[Link to Screenshot here as screenshot is unsightly](https://github.com/TuckerRasbury/SQLPractice_Datalemur_ITR/blob/4f19b8b6a8fe92d54f98f3bc3514d8178cccd09f/images/pages_with_no_likes/1663078588840.jpeg)
 
 - Number of Tries: 2
 - Lessons Learned: HAVING vs WHERE 
