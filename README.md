@@ -44,6 +44,7 @@ _Note: Questions ordered by date._
 - Question: Assume you are given the tables below about Facebook pages and page likes. **Write a query to return the page IDs of all the Facebook pages that don't have any likes. The output should be in ascending order.**
 
 ```
+-- Code Answer Submitted
 SELECT
   pages.page_id
 FROM pages
@@ -65,12 +66,27 @@ This one was more challenging for me since I am generally used to painting in br
 
 
 ### Cities with Completed Trades | Easy | Robinhood | 9/12/2022
-- Question: 
+- Question: You are given the tables below containing information on Robinhood trades and users. **Write a query to list the top three cities that have the most completed trade orders in descending order.**
 
-![Image](Path)
+
+```
+-- Code Answer Submitted
+SELECT
+  users.city,
+  COUNT(order_id) AS total_orders
+FROM users
+JOIN trades
+ON users.user_id = trades.user_id
+WHERE status = 'Completed'
+GROUP BY city
+ORDER BY total_orders DESC
+LIMIT 3
+```
+
+[Link to screenshot here](Path)
 
 - Number of Tries: 1
-- Lessons Learned: 
+- Lessons Learned: SQL has an order of operations - I tend to familiarize myself with the data and then draft a query plan before testing code. Finally, I’ll fill in pieces as I go. But, this question required so many components that I had to double check my basics and I realized that the order of operations was far from a locked in skill for me. 
 - LinkedIn Post: [Here](https://www.linkedin.com/posts/tuckerrasbury_dataanalytics-sql-datalemur-activity-6975117717653655552-KgbQ?utm_source=share&utm_medium=member_desktop)
 
 ## Appendix
