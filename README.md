@@ -54,7 +54,7 @@ GROUP{ BY pages.page_id
 HAVING Count(page_likes.page_id) < 1;
 ```
 
-[Link to Screenshot here as screenshot is unsightly](https://github.com/TuckerRasbury/SQLPractice_Datalemur_ITR/blob/4f19b8b6a8fe92d54f98f3bc3514d8178cccd09f/images/pages_with_no_likes/1663078588840.jpeg)
+[Link to screenshot here](https://github.com/TuckerRasbury/SQLPractice_Datalemur_ITR/blob/4f19b8b6a8fe92d54f98f3bc3514d8178cccd09f/images/pages_with_no_likes/1663078588840.jpeg)
 
 - Number of Tries: 2
 - Lessons Learned: HAVING vs WHERE 
