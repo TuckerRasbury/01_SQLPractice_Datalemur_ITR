@@ -41,12 +41,16 @@ _Note: Questions ordered by date._
 
 
 ### Pages with No Likes | Easy | Facebook | 9/13/2022
-- Question: 
+- Question: Assume you are given the tables below about Facebook pages and page likes. **Write a query to return the page IDs of all the Facebook pages that don't have any likes. The output should be in ascending order.**
 
 ![Image](Path)
 
 - Number of Tries: 2
-- Lessons Learned: 
+- Lessons Learned: HAVING vs WHERE 
+
+“A HAVING clause is like a WHERE clause, but applies only to groups as a whole (that is, to the rows in the result set representing groups), whereas the WHERE clause applies to individual rows. A query can contain both a WHERE clause and a HAVING clause.” [🔗 Microsoft Documentation Link  🔗](https://learn.microsoft.com/en-us/sql/ssms/visual-db-tools/use-having-and-where-clauses-in-the-same-query-visual-database-tools?view=sql-server-ver16#:~:text=A%20HAVING%20clause%20is%20like,clause%20and%20a%20HAVING%20clause)
+
+This one was more challenging for me since I am generally used to painting in broad strokes. Both clauses allow you to filter the broader dataset. The trick-for me at least is that they do the same thing BUT UNDER DIFFERENT circumstances! I tried to answer the question with both because I refused to accept the difference, but ultimately landed back where I started, ie. the difference between these functions is substantive and they are not interchangeable.
 - LinkedIn Post: [Here](https://www.linkedin.com/posts/tuckerrasbury_datalemur-sql-analytics-activity-6975457181575835649-6wxE?utm_source=share&utm_medium=member_desktop)
 
 
