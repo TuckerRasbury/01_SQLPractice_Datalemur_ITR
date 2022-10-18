@@ -41,6 +41,7 @@ _Note: Questions ordered by most recent date._
 
 
 ![Image](images/Laptop_Vs_Mobile_Viewership/Snap.png)
+[Screenshot of submission](https://github.com/TuckerRasbury/SQLPractice_Datalemur_ITR/blob/c524a6a0fbce1630dc2e778bd1184ebb7165637b/images/Laptop_Vs_Mobile_Viewership/Screen%20Shot%202022-10-17%20at%208.34.36%20PM.png)
 
 - Number of Tries: 1
 - Lessons Learned: Building a plan for your query is essential. This is one of the more difficult queries I've written using CASE statements, but the odd thing is that I felt really comfortable writing it! Took a few tries to get the syntax right, but I really enjoyed writing this.
