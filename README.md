@@ -39,10 +39,26 @@ _Note: Questions ordered by most recent date._
 ### Laptop Vs Mobile Viewership | Easy | New York Times | TBD
 - Question: Assume that you are given a table containing information on viewership by device type (where the three types are laptop, tablet, and phone). Define “mobile” as the sum of tablet and phone viewership numbers. **Write a query to compare the viewership on laptops versus mobile devices. Output the total viewership for laptop and mobile devices in the format of "laptop_views" and "mobile_views".**
 
+```
+-- Write a query to compare the viewership on laptops versus mobile devices. 
+-- Output the total viewership for laptop and mobile devices in the format of "laptop_views" and "mobile_views".
+
+SELECT
+  SUM(CASE WHEN 
+    device_type = 'laptop' THEN 1 ELSE 0 END) 
+    AS laptop_views, -- laptop_views logic
+  SUM(CASE WHEN
+    device_type = 'tablet' THEN 1 ELSE 0 END ) + 
+  SUM(CASE WHEN  
+    device_type = 'phone' THEN 1 ELSE 0 END) 
+    AS mobile_views -- mobile_views logic
+FROM viewership;
+```
+
 ![Image](Path)
 
-- Number of Tries:
-- Lessons Learned: 
+- Number of Tries: 1
+- Lessons Learned: Building a plan for your query is essential. This is one of the more difficult queries I've written using CASE statements, but the odd thing is that I felt really comfortable writing it! Took a few tries to get the syntax right, but I really enjoyed writing this.
 - LinkedIn Post: [Here]()
 
 
