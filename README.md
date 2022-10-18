@@ -22,7 +22,7 @@ If you have any questions or concerns feel free to get in touch with me on Linke
 ## Table of Contents
 
 ### Easy Questions
-- [Laptop Vs Mobile Viewership | Easy | New York Times | 10/17/2022]()
+- [Laptop Vs Mobile Viewership | Easy | New York Times | 10/17/2022](https://github.com/TuckerRasbury/SQLPractice_Datalemur_ITR/blob/main/README.md#laptop-vs-mobile-viewership--easy--new-york-times--10172022)
 - [Data Science Skills | Easy | LinkedIn | 10/12/2022](https://github.com/TuckerRasbury/SQLPractice_Datalemur_ITR#data-science-skills--easy--linkedin--10122022)
 - [Pages with No Likes | Easy | Facebook | 9/13/2022](https://github.com/TuckerRasbury/SQLPractice_Datalemur_ITR#pages-with-no-likes--easy--facebook--9132022)
 - [Cities with Completed Trades | Easy | Robinhood | 9/12/2022](https://github.com/TuckerRasbury/SQLPractice_Datalemur_ITR#cities-with-completed-trades--easy--robinhood--9122022)
