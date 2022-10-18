@@ -22,7 +22,7 @@ If you have any questions or concerns feel free to get in touch with me on Linke
 ## Table of Contents
 
 ### Easy Questions
--[]()
+- [Laptop Vs Mobile Viewership | Easy | New York Times | 10/17/2022]()
 - [Data Science Skills | Easy | LinkedIn | 10/12/2022](https://github.com/TuckerRasbury/SQLPractice_Datalemur_ITR#data-science-skills--easy--linkedin--10122022)
 - [Pages with No Likes | Easy | Facebook | 9/13/2022](https://github.com/TuckerRasbury/SQLPractice_Datalemur_ITR#pages-with-no-likes--easy--facebook--9132022)
 - [Cities with Completed Trades | Easy | Robinhood | 9/12/2022](https://github.com/TuckerRasbury/SQLPractice_Datalemur_ITR#cities-with-completed-trades--easy--robinhood--9122022)
@@ -36,7 +36,7 @@ If you have any questions or concerns feel free to get in touch with me on Linke
 ## Question Responses
 _Note: Questions ordered by most recent date._
 
-### Laptop Vs Mobile Viewership | Easy | New York Times | TBD
+### Laptop Vs Mobile Viewership | Easy | New York Times | 10/17/2022
 - Question: Assume that you are given a table containing information on viewership by device type (where the three types are laptop, tablet, and phone). Define “mobile” as the sum of tablet and phone viewership numbers. **Write a query to compare the viewership on laptops versus mobile devices. Output the total viewership for laptop and mobile devices in the format of "laptop_views" and "mobile_views".**
 
 ```
