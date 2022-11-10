@@ -37,7 +37,7 @@ If you have any questions or concerns feel free to get in touch with me on Linke
 ## Question Responses
 _Note: Questions ordered by most recent date._
 
-### LinkedIn Power Creators (Part 1) | Easy | LinkedIn | 11/10/2022
+### LinkedIn Power Creators (Part 1) | Easy | LinkedIn | STARTED: 11/10/2022
 - Question: Write a query to return the IDs of these LinkedIn power creators ordered by the IDs.
 
 ````
