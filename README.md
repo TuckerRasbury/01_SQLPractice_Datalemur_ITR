@@ -22,7 +22,7 @@ If you have any questions or concerns feel free to get in touch with me on Linke
 ## Table of Contents
 
 ### Easy Questions
-- Working Entry [LinkedIn Power Creators (Part 1) | Easy | LinkedIn | 11/10/2022]()
+- Working Entry - [LinkedIn Power Creators (Part 1) | Easy | LinkedIn | 11/10/2022]()
 - [Laptop Vs Mobile Viewership | Easy | New York Times | 10/17/2022](https://github.com/TuckerRasbury/SQLPractice_Datalemur_ITR/blob/main/README.md#laptop-vs-mobile-viewership--easy--new-york-times--10172022)
 - [Data Science Skills | Easy | LinkedIn | 10/12/2022](https://github.com/TuckerRasbury/SQLPractice_Datalemur_ITR#data-science-skills--easy--linkedin--10122022)
 - [Pages with No Likes | Easy | Facebook | 9/13/2022](https://github.com/TuckerRasbury/SQLPractice_Datalemur_ITR#pages-with-no-likes--easy--facebook--9132022)
@@ -37,21 +37,21 @@ If you have any questions or concerns feel free to get in touch with me on Linke
 ## Question Responses
 _Note: Questions ordered by most recent date._
 
-### LinkedIn Power Creators (Part 1) | Easy | LinkedIn | STARTED: 11/10/2022
-- Question: Write a query to return the IDs of these LinkedIn power creators ordered by the IDs.
+### WORKING ENTRY - LinkedIn Power Creators (Part 1) | Easy | LinkedIn | STARTED: 11/10/2022
+- Question: Write a query to return the IDs of these LinkedIn power creators ordered by the IDs. If someone's LinkedIn page has more followers than the company they work for, we can safely assume that person is a power creator.
 
 ````
 -- Write a query to return the IDs of these
 -- LinkedIn power creators ordered by the IDs.
 
 SELECT
-  profile_id,
-  personal_profiles.followers AS Personal_Followers,
-  company_pages.followers AS Company_Followers
+  profile_id, -- ID
+  personal_profiles.followers AS Personal_Followers, -- Persoanl followers count
+  company_pages.followers AS Company_Followers -- Company followers count
 FROM personal_profiles
-JOIN company_pages ON company_pages.company_id = personal_profiles.employer_ID
+JOIN company_pages ON company_pages.company_id = personal_profiles.employer_ID -- Pulling together the two datasets of interest
 GROUP BY personal_profiles.profile_id, personal_profiles.followers, company_pages.followers
-HAVING personal_profiles.followers > company_pages.followers;
+HAVING personal_profiles.followers > company_pages.followers; -- Comparing personal and company followers
 ````
 
 ![Image](Path)
