@@ -46,12 +46,12 @@ _Note: Questions ordered by most recent date._
 
 SELECT
   profile_id,
-  -- personal_profiles.employer_id,
   personal_profiles.followers AS Personal_Followers,
-  -- company_pages.company_id,
   company_pages.followers AS Company_Followers
 FROM personal_profiles
-JOIN company_pages ON company_pages.company_id = personal_profiles.employer_ID;
+JOIN company_pages ON company_pages.company_id = personal_profiles.employer_ID
+GROUP BY personal_profiles.profile_id, personal_profiles.followers, company_pages.followers
+HAVING personal_profiles.followers > company_pages.followers;
 ````
 
 ![Image](Path)
