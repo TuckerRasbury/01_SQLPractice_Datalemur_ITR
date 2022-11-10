@@ -41,7 +41,15 @@ _Note: Questions ordered by most recent date._
 - Question: Write a query to return the IDs of these LinkedIn power creators ordered by the IDs.
 
 ````
-SELECT * 
+-- Write a query to return the IDs of these
+-- LinkedIn power creators ordered by the IDs.
+
+SELECT
+  profile_id,
+  -- personal_profiles.employer_id,
+  personal_profiles.followers AS Personal_Followers,
+  -- company_pages.company_id,
+  company_pages.followers AS Company_Followers
 FROM personal_profiles
 JOIN company_pages ON company_pages.company_id = personal_profiles.employer_ID;
 ````
