@@ -1,4 +1,4 @@
-# Practicing SQL w/ Isaac D. Tucker-Rasbury via DataLemur
+# Practicing SQL with DataLemur
 Using this as a space to log and organize my SQL practice using the website [DataLemur](https://datalemur.com). Hope you can learn something from this space as well!
 
 ## About this Repository
