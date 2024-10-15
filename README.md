@@ -41,7 +41,7 @@ _Note: Questions ordered by most recent date._
 ### Well Paid Employees | Easy | FAANG | 10/15/2024
 - Question: Companies often perform salary analyses to ensure fair compensation practices. One useful analysis is to check if there are any employees earning more than their direct managers. As a HR Analyst, you're asked to identify all employees who earn more than their direct managers. The result should include the employee's ID and name.
 
-![Image](images/Well_Paid_Employees/Snap-2.png0)
+![Image](images/Well_Paid_Employees/Snap-2.png)
 
 - Number of Tries: 2
 - Lessons Learned: Paying attention to the fields neccessary is the first lesson here (see the commented out salary field which was not required in my first attempt), but the second lesson here is in the join. The join here is doing most of the work because it effectively lines up the employee and manager pay for comparison. This one is simple, but it is still very important to the question.
