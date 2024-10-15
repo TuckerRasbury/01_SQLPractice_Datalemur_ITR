@@ -22,7 +22,7 @@ If you have any questions or concerns feel free to get in touch with me on Linke
 ## Table of Contents
 
 ### Easy Questions
-- [Well Paid Employees | Easy | FAANG | 10/15/2024]()
+- Well Paid Employees | Easy | FAANG | 10/15/2024
 - Discontinued Question due to Paywall - [LinkedIn Power Creators (Part 1) | Easy | LinkedIn | 11/10/2022]()
 - [Laptop Vs Mobile Viewership | Easy | New York Times | 10/17/2022](https://github.com/TuckerRasbury/SQLPractice_Datalemur_ITR/blob/main/README.md#laptop-vs-mobile-viewership--easy--new-york-times--10172022)
 - [Data Science Skills | Easy | LinkedIn | 10/12/2022](https://github.com/TuckerRasbury/SQLPractice_Datalemur_ITR#data-science-skills--easy--linkedin--10122022)
