@@ -27,6 +27,7 @@ If you have any questions or concerns feel free to get in touch with me on Linke
 - [Data Science Skills | Easy | LinkedIn | 10/12/2022](https://github.com/TuckerRasbury/SQLPractice_Datalemur_ITR#data-science-skills--easy--linkedin--10122022)
 - [Pages with No Likes | Easy | Facebook | 9/13/2022](https://github.com/TuckerRasbury/SQLPractice_Datalemur_ITR#pages-with-no-likes--easy--facebook--9132022)
 - [Cities with Completed Trades | Easy | Robinhood | 9/12/2022](https://github.com/TuckerRasbury/SQLPractice_Datalemur_ITR#cities-with-completed-trades--easy--robinhood--9122022)
+- [Well Paid Employees | Easy | FAANG | 10/15/2024]()
 
 ### Medium
 - [Placeholder]()
@@ -37,7 +38,15 @@ If you have any questions or concerns feel free to get in touch with me on Linke
 ## Question Responses
 _Note: Questions ordered by most recent date._
 
-### Discontinued due to Paywall - LinkedIn Power Creators (Part 1) | Easy | LinkedIn | STARTED: 11/10/2022
+### Well Paid Employees | Easy | FAANG | 10/15/2024
+- Question: Companies often perform salary analyses to ensure fair compensation practices. One useful analysis is to check if there are any employees earning more than their direct managers. As a HR Analyst, you're asked to identify all employees who earn more than their direct managers. The result should include the employee's ID and name.
+
+
+
+
+
+
+### Discontinued Question due to Paywall - LinkedIn Power Creators (Part 1) | Easy | LinkedIn | STARTED: 11/10/2022
 - Question: Write a query to return the IDs of these LinkedIn power creators ordered by the IDs. If someone's LinkedIn page has more followers than the company they work for, we can safely assume that person is a power creator.
 
 ````
