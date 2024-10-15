@@ -41,10 +41,11 @@ _Note: Questions ordered by most recent date._
 ### Well Paid Employees | Easy | FAANG | 10/15/2024
 - Question: Companies often perform salary analyses to ensure fair compensation practices. One useful analysis is to check if there are any employees earning more than their direct managers. As a HR Analyst, you're asked to identify all employees who earn more than their direct managers. The result should include the employee's ID and name.
 
+![Image](images/Well_Paid_Employees/Snap-2.png0
 
-
-
-
+- Number of Tries: 2
+- Lessons Learned: Paying attention to the fields neccessary is the first lesson here (see the commented out salary field which was not required in my first attempt), but the second lesson here is in the join. The join here is doing most of the work because it effectively lines up the employee and manager pay for comparison. This one is simple, but it is still very important to the question.
+- LinkedIn Post: [Not yet posted]()
 
 ### Discontinued Question due to Paywall - LinkedIn Power Creators (Part 1) | Easy | LinkedIn | STARTED: 11/10/2022
 - Question: Write a query to return the IDs of these LinkedIn power creators ordered by the IDs. If someone's LinkedIn page has more followers than the company they work for, we can safely assume that person is a power creator.
@@ -63,11 +64,11 @@ GROUP BY personal_profiles.profile_id, personal_profiles.followers, company_page
 HAVING personal_profiles.followers > company_pages.followers; -- Comparing personal and company followers
 ````
 
-![Image](Path)
+![Image](images/Well_Paid_Employees/Snap-2.png)
 
 - Number of Tries:
 - Lessons Learned: 
-- LinkedIn Post: [Here]()
+- LinkedIn Post: N/A
 
 ### Laptop Vs Mobile Viewership | Easy | New York Times | 10/17/2022
 - Question: Assume that you are given a table containing information on viewership by device type (where the three types are laptop, tablet, and phone). Define “mobile” as the sum of tablet and phone viewership numbers. **Write a query to compare the viewership on laptops versus mobile devices. Output the total viewership for laptop and mobile devices in the format of "laptop_views" and "mobile_views".**
